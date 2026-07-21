@@ -9,3 +9,8 @@
 - **Built:** secure generator (secrets) + regex 0–100 analyzer, rich colors
 - **Broke:** any() vs sum() froze the generator; elif chained length onto symbol check; > vs >= at boundary
 - **Learned:** bool-vs-int type confusion is my repeating pattern — check both sides of every comparison
+
+## Day 3 — File Organizer
+- **Built:** menu-driven organizer, sorts files by extension into category folders
+- **Broke:** shutil.move renamed files when destination didn't exist — lost test PDFs; rglob re-found moved files; globbed the wrong folder
+- **Learned:** mkdir before move, always; glob vs rglob; test destructive code on junk files
