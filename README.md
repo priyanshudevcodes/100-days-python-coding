@@ -34,9 +34,9 @@ Building toward autonomous robot simulation, computer vision, and deep learning.
 
 | Day | Project | Concepts |
 |-----|---------|----------|
-| 01 | [CLI To-Do Manager](day-01-todo-manager) | JSON persistence, list of dicts, CRUD, input validation |
-
----
+| 01 | [CLI To-Do Manager](Day-1) | JSON persistence, list of dicts, CRUD, input validation |
+| 02 | [Password Generator + Analyzer](Day-2) | secrets, regex, scoring design, rich |
+| 03 | [File Organizer](Day-3) | pathlib, shutil, glob, file safety |
 
 ## Run
 
