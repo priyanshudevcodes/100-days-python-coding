@@ -14,3 +14,7 @@
 - **Built:** menu-driven organizer, sorts files by extension into category folders
 - **Broke:** shutil.move renamed files when destination didn't exist — lost test PDFs; rglob re-found moved files; globbed the wrong folder
 - **Learned:** mkdir before move, always; glob vs rglob; test destructive code on junk files
+## Day 4 — Number System Converter + Bitwise Playground
+- **Built:** d/b/h converter + bitwise playground with bit-aligned output
+- **Broke:** except-without-continue again (4th time) — crashed on bad bitwise input
+- **Learned:** f-string format specs beat bin()/hex(); reflex — every except, ask "should code below still run?"
