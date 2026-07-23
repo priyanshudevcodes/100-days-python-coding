@@ -38,6 +38,7 @@ Building toward autonomous robot simulation, computer vision, and deep learning.
 | 02 | [Password Generator + Analyzer](Day-2) | secrets, regex, scoring design, rich |
 | 03 | [File Organizer](Day-3) | pathlib, shutil, glob, file safety |
 | 04 | [Number Converter + Bitwise](Day-4) | number bases, bitwise ops, format specs |
+| 05 | [Typing Speed Tester](Day-5) | perf_counter, zip, WPM math, accuracy design |
 ## Run
 
 ```bash
